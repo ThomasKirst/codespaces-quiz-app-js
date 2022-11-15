@@ -1,0 +1,24 @@
+{
+  "name": "codespaces-quiz-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasKirst/codespaces-quiz-app-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasKirst/codespaces-quiz-app-js/issues"
+  },
+  "homepage": "https://github.com/ThomasKirst/codespaces-quiz-app-js#readme",
+  "dependencies": {
+    "nanoid": "^4.0.0"
+  },
+  "type": "module"
+}
